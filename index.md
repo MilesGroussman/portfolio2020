@@ -1,5 +1,7 @@
 ## Welcome to Miles Groussman's Portfolio
 
+![typing test](https://github.com/MilesGroussman/portfolio2020/blob/gh-pages/Typing%20for%20Computer%20Programming.PNG?raw=true)
+
 You can use the [editor on GitHub](https://github.com/MilesGroussman/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
